@@ -11,4 +11,4 @@ You can then create additional playlists based on including and excluding tags. 
 
 You can also apply aliases to playlists. So if your "rock" playlist is called "riff magick, daddyo!" you can give it a "rock" alias and refer to it that way, when managing your tagged lists.
 
-You can also make up additional tags and apply them to songs as you desired.
+You can also make up additional tags and apply them to songs as desired.
